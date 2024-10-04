@@ -26,18 +26,30 @@ body {
   nav {
     background-color: #000;
     padding: .5em;
+    display: flex;
+    position: sticky; /* Makes the nav bar sticky when reaching the top */
+    top: 0px;
+    left: 0px;
   }
   
   nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: flex;
+    flex: 2;
   }
   
   nav a {
     color: #fff;
     text-decoration: none;
     padding: .5em 1em;
+    flex: 1;
+  }
+
+  nav li {
+    display: flex;
+    flex: 1;
   }
   
   .photos {
@@ -48,4 +60,8 @@ body {
 
   .feature {
       width: 200px;
+  }
+
+  .grid {
+    display: flex;
   }

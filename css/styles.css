@@ -59,9 +59,28 @@ body {
   }
 
   .feature {
-      width: 200px;
+    width: 200px;
+    float: left;
+    padding-right: 20px
   }
 
   .grid {
     display: flex;
   }
+
+  main {
+    flex: right;
+  }
+
+  article {
+    flex: 2
+  }
+
+  aside {
+    flex: 1
+  }
+
+  .photos {
+    display: grid;
+  }
+  

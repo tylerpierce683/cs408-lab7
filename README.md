@@ -2,23 +2,16 @@
 
 ## Overview
 
-TODO: Write a project description
+This project entailed reorganizing the layout of text and images on a website using things like grid, flex, positioning, etc.
+
+## Steps to Run
+1. Clone this repository where this project is to a local directory
+2. Open this project in VSCode
+3. Navigate to the index.html file and then open the command palette
+4. Select the option "Live Preview: Start Server"
+5. Enjoy the website in the IDE or copy the IP in the live preview browser and paste it in an actual browser
+6. Enjoy
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Grids: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
